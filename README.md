@@ -1,6 +1,7 @@
 # README
 
 Basic CRUD weblog app to learn Ruby on Rails.
+Test.
 
 
 * Ruby version
